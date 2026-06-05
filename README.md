@@ -1,39 +1,30 @@
 <h1 align="center">Hey 👋, I'm Sarbudeen Developer</h1>
-<h3 align="center">I build anything comes to mind using Tech. with consistency 🚀</h3>
+<h3 align="center">I build anything that comes to mind using Tech, with absolute consistency 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Flutter+Dev+%7C+Product+Builder;Content+Creator+%7C+Code+is+Love" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Micro-SaaS+Builder;Content+Creator+%7C+Code+is+Love" alt="Typing SVG" />
 </p>
 
 ---
 
-<div align="center">
-
-<div style="display: flex; flex-direction: column; align-items: center;">
-
-<!-- About Me -->
-<div align="left" style="max-width: 800px;">
-
 ### 👨‍💻 About Me
 
-- 🔭 Currently building [DevKoodal](https://www.devkoodal.in) – A matrimonial site for software pros  
-- 🚀 Also made [VBillo](https://vbillo-demo.vsolver.com) – A complete billing & POS SaaS  
-- 🌐 Portfolio: [sarbudeen-developer.web.app](https://sarbudeen-developer.web.app)  
-- 🎯 Consistently building cool stuff and solving real-world problems  
-- ✍️ Content Creator & part-time Badminton smasher 🏸  
+- 🏢 **Founder at:** **VSolver Technologies** – Engineering modern digital transformation and high-performance software solutions.
+- 🚀 **Products Shipped & Building:**
+  - 📊 **[Graphycards](https://graphycards.com)** – AI-powered SaaS for generating high-converting social media infographics and visual templates.
+  - 💬 **[Komently](https://komently.com)** – Advanced automation tool for seamless social media engagement and auto-DM marketing workflows.
+- 🎓 **Creator Ecosystem:** **[Learnwithsdn](https://www.instagram.com/learnwithsdn/)** – Building educational tech content, developer assets, and masterclasses to help devs scale up.
+- 🌐 **Portfolio:** [sarbudeen-developer.web.app](https://sarbudeen-developer.web.app)  
+- 🎯 **Focus:** Building production-grade Micro-SaaS ecosystems, optimizing agentic AI workflows, and solving real-world business problems.  
+- 🏸 **Fun Side:** Part-time badminton smasher and visual content enthusiast.  
 - 🌍 Based in **India** 🇮🇳  
-- 💬 Ask me about anything in: `React`, `Flutter`, `Node.js`, `Go`, `Firebase`, `PostgreSQL`, `Prisma`, and more...
 
-</div>
-
-<!-- Dev Card -->
 <br/>
-<a href="https://app.daily.dev/learnwithsdn">
-  <img src="https://api.daily.dev/devcards/v2/bWDl0eH5aBYeypNi8d7rD.png?type=default&r=6hr" width="250" alt="Learnwithsdn's Dev Card"/>
-</a>
-
-</div>
-</div>
+<p align="center">
+  <a href="https://app.daily.dev/learnwithsdn">
+    <img src="https://api.daily.dev/devcards/v2/bWDl0eH5aBYeypNi8d7rD.png?type=default&r=6hr" width="250" alt="Learnwithsdn's Dev Card"/>
+  </a>
+</p>
 
 ---
 
@@ -58,7 +49,7 @@
 
 ### ✍️ Blogs & Writing
 
-- 📝 Medium: [sdnlearnings](https://medium.com/@sdnlearnings) – Insights on tech, growth, and dev life
+- 📝 **Medium:** [sdnlearnings](https://medium.com/@sdnlearnings) – Insights on backend architecture, tech growth, and the indie hacker journey.
 
 ---
 
@@ -83,8 +74,8 @@
 
 ### 🛠 Featured Projects
 
-- 🌟 [DevKoodal.in](https://www.devkoodal.in) – Matrimonial app for software professionals  
-- 💰 [VBillo](https://vbillo-demo.vsolver.com) – Cloud-based billing and POS SaaS  
+- 🚀 **[Graphycards.com](https://graphycards.com)** – AI-powered social media infographic engine.
+- 🤖 **[Komently.com](https://komently.com)** – Intelligent lead engagement and marketing automation suite.
 
 ---
 
